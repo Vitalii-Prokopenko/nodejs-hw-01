@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "b0c6fb94-3085-4534-b953-3df0aa931eb3",
+    "name": "Terry Tromp",
+    "phone": "750-999-7653 x686",
+    "email": "Florian59@gmail.com",
+    "job": "Dynamic Response Developer"
+  },
+  {
+    "id": "5e1aeeb8-4017-47ee-a6c8-589b74e60cd8",
+    "name": "Jesus Mills",
+    "phone": "213-957-1872 x305",
+    "email": "Alanis.Bins@hotmail.com",
+    "job": "National Response Designer"
+  }
+]
